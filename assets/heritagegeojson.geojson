@@ -1,0 +1,24 @@
+{
+"type": "FeatureCollection",
+"name": "heritagegeojson",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Cultural heritage name": "Lumbini", "Latitude": 27.46942045, "Longitude": 83.27579316000001 }, "geometry": { "type": "Point", "coordinates": [ 83.27579316, 27.46942045 ] } },
+{ "type": "Feature", "properties": { "Cultural heritage name": "Boudhanath Stupa", "Latitude": 27.72151267, "Longitude": 85.362027 }, "geometry": { "type": "Point", "coordinates": [ 85.362027, 27.72151267 ] } },
+{ "type": "Feature", "properties": { "Cultural heritage name": "Chitwan National Park", "Latitude": 27.51954199, "Longitude": 84.31348941 }, "geometry": { "type": "Point", "coordinates": [ 84.31348941, 27.51954199 ] } },
+{ "type": "Feature", "properties": { "Cultural heritage name": "Patan Durbar Square", "Latitude": 27.67298301, "Longitude": 85.32530531 }, "geometry": { "type": "Point", "coordinates": [ 85.32530531, 27.67298301 ] } },
+{ "type": "Feature", "properties": { "Cultural heritage name": "Pashupatinath Temple", "Latitude": 27.71059746, "Longitude": 85.34879104 }, "geometry": { "type": "Point", "coordinates": [ 85.34879104, 27.71059746 ] } },
+{ "type": "Feature", "properties": { "Cultural heritage name": "Swayambhunath Mahachaitya", "Latitude": 27.71499891, "Longitude": 85.29038399 }, "geometry": { "type": "Point", "coordinates": [ 85.29038399, 27.71499891 ] } },
+{ "type": "Feature", "properties": { "Cultural heritage name": "Bhaktapur Durbar Square", "Latitude": 27.67216903, "Longitude": 85.42808045 }, "geometry": { "type": "Point", "coordinates": [ 85.42808045, 27.67216903 ] } },
+{ "type": "Feature", "properties": { "Cultural heritage name": "Changu Narayan Temple", "Latitude": 27.71666376, "Longitude": 85.42805243 }, "geometry": { "type": "Point", "coordinates": [ 85.42805243, 27.71666376 ] } },
+{ "type": "Feature", "properties": { "Cultural heritage name": "Sagarmatha National Park", "Latitude": 27.93262243, "Longitude": 86.70134648 }, "geometry": { "type": "Point", "coordinates": [ 86.70134648, 27.93262243 ] } },
+{ "type": "Feature", "properties": { "Cultural heritage name": "Kathmandu Durbar Square", "Latitude": 27.70452065, "Longitude": 85.30752737 }, "geometry": { "type": "Point", "coordinates": [ 85.30752737, 27.70452065 ] } },
+{ "type": "Feature", "properties": { "Cultural heritage name": "Hanuman Dhoka", "Latitude": 27.70467911, "Longitude": 85.30748076 }, "geometry": { "type": "Point", "coordinates": [ 85.30748076, 27.70467911 ] } },
+{ "type": "Feature", "properties": { "Cultural heritage name": "Janaki Temple", "Latitude": 26.73047128, "Longitude": 85.92555361 }, "geometry": { "type": "Point", "coordinates": [ 85.92555361, 26.73047128 ] } },
+{ "type": "Feature", "properties": { "Cultural heritage name": "Kopan Monastery", "Latitude": 27.74279231, "Longitude": 85.3649135 }, "geometry": { "type": "Point", "coordinates": [ 85.3649135, 27.74279231 ] } },
+{ "type": "Feature", "properties": { "Cultural heritage name": "Krishna Temple", "Latitude": 27.74102573, "Longitude": 85.36388346 }, "geometry": { "type": "Point", "coordinates": [ 85.36388346, 27.74102573 ] } },
+{ "type": "Feature", "properties": { "Cultural heritage name": "Muktinath Temple", "Latitude": 28.81700431, "Longitude": 83.87179363 }, "geometry": { "type": "Point", "coordinates": [ 83.87179363, 28.81700431 ] } },
+{ "type": "Feature", "properties": { "Cultural heritage name": "Budhanilkantha Temple", "Latitude": 27.77823538, "Longitude": 85.36237612 }, "geometry": { "type": "Point", "coordinates": [ 85.36237612, 27.77823538 ] } },
+{ "type": "Feature", "properties": { "Cultural heritage name": "Mount Everest", "Latitude": 27.98910545, "Longitude": 86.92467469 }, "geometry": { "type": "Point", "coordinates": [ 86.92467469, 27.98910545 ] } }
+]
+}
